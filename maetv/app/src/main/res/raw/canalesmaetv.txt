@@ -1,0 +1,83 @@
+CANAL 2;http://d2f1bbn9v49he.cloudfront.net/cr/canal2/smil:v2.smil/chunklist_b1098304_sles.m3u8
+CANAL 4;http://d3ha0sloduwpku.cloudfront.net/cr/canal4/smil:v2.smil/chunklist_HD_sles.m3u8
+CANAL 6;http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_HD_sles.m3u8
+MULTIMEDIOS;http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+CANAL 11;http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/chunklist_HD_sles.m3u8
+CANAL 14;http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+CANAL UCR;http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+CANAL 19;http://stream01.cyberfuel.com/RadioCostaRica/livestream/chunklist_w1906756685.m3u8
+SAN VITO TV;http://k4.usastreams.com/vitotv/vitotv/chunklist_w1717299044.m3u8
+COLOSAL TV;http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w1474049066.m3u8
+CACHIPUM TV;http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1664416606.m3u8
+TELESUR;http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+TELERED;http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+88 STEREO;http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+TICAVISION;http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+SUPER 5;http://k4.usastreams.com/superC/superC_1/chunklist_w1276676761.m3u8
+NICOYA TV;http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
+GUAPILES TV;http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1942896713.m3u8
+CB 24;http://18.191.91.130:1935/live/CB24/chunklist_w1093096555.m3u8
+TELEUNO;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/201.m3u8
+UNO TV;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/272.m3u8
+SETANTA SPORTS;http://ott-cdn.ucom.am/s81/04.m3u8
+SPORT TV 2;http://185-125-230-172.livesports24.online/portugalsport2.m3u8
+BEIN SPORTS;https://storage.tumarcador.xyz/a1/live.m3u8
+RED BULL TV;https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+RU TV;https://rutv.gcdn.co/streams/1410_1272/480n/index.m3u8
+PLANETA RTR;http://ott-cdn.ucom.am/s15/04.m3u8
+MIR TV;http://ott-cdn.ucom.am/s39/04.m3u8
+REAL MADRID TV;http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+PARAMOUNT;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/330.m3u8
+DEPORTES 1;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/802.m3u8
+DEPORTES 2;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/832.m3u8
+SY FY;https://grifo5.mitopo.me/live/syfy/index.m3u8?token=FhWjBPRcPLxseec7sDPuWw&expires=1554952930
+TDP DEPORTES;https://petopa152.caraponi.me/live/teledeporte/index.m3u8?token=BFlMn64WNBcRJLmLwYiSnw&expires=1554956760
+AXN;https://grifo6.mitopo.me/live/axn/index.m3u8?token=1aMAT0aqxBS3-lO7stPF0Q&expires=1554963235
+ESPN 2;http://live.liketvw.com/streamlive/24.m3u8?token=e0T8sH1gkh--QpXDhjSJjg&expires2=U2FsdGVkX1%2FhFwo6mJ5z3c3LNT9zKOwFtD9NQRvOh8o%3D&expires=1554939914&ip=190.171.102.117
+MOVISTAR;https://e3.cdn4.us/ingest07/46718.m3u8?sf=enNJelFyZDA3OQ==&token=7dJLO2qaJlocfLfAcIgNPw&expires=1554924883&rnd=46718
+ESPN;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/721.m3u8
+SPORT 3;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/500.m3u8
+TDN;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/581.m3u8
+CARTOON NETWORK;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/119.m3u8
+NOVA;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/81.m3u8
+RTVE;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/690.m3u8
+AZTECA;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/242.m3u8
+ULTRA;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/235.m3u8
+VH 1;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/892.m3u8
+T 13;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/805.m3u8
+ANTENA3;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/867.m3u8
+FOX MOVIES;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/254.m3u8
+FX FHD;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/618.m3u8
+PARAMOUNT;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/330.m3u8
+SPACE;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/644.m3u8
+SYFY;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/875.m3u8
+TNT;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/520.m3u8
+HBO;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/891.m3u8
+UNIVERSAL;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/854.m3u8
+HYSTORY;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/881.m3u8
+TELEMUNDO;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/277.m3u8
+CANAL + 1;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/803.m3u8
+CANAL + 2;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/802.m3u8
+CANAL + 3;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/832.m3u8
+CANAL + 4;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/833.m3u8
+CANAL + 5;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/834.m3u8
+CANAL + 6;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/831.m3u8
+CANAL + 7;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/836.m3u8
+CANAL + 8;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/840.m3u8
+CANAL + 9;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/115.m3u8
+CANAL + 10;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/845.m3u8
+RCN;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/844.m3u8
+JAZMIN 0;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/68.m3u8
+CANAL 00;http://162.255.86.122:25461/live/DaZPlayer-Android-IOS-Windows-SmartTV-Web/DaZPlayer-SITIOweb/821.m3u8
+
+
+
+
+
+
+
+
+
+
+
+

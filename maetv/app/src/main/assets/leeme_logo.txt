@@ -1,0 +1,23 @@
+#517502 verde
+#525052 gris
+
+gran hotel regular
+
+public void CargaDatos(View view) throws IOException{
+	List<String> listado = new ArrayList<String>();
+	String linea;
+
+	InputStream is = this.getResources().openRawResource(R.raw.data);
+	BufferedReader reader = new BufferedReader(new InputStreamReader(is));
+	if (is!=null){
+		while((linea = reader.readLine())=null){
+			listado.add(linea.split(";")[0]);
+		}
+	}
+	is.close();
+	Toast.makeText(this, "Carga"+ listado.size(), Toast.LENGHT_LONG).show();
+
+	String datos[] = listado.toArray(new String[listado.size()]);
+	ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, datos);
+	lista.setAdapter(adapter);
+}

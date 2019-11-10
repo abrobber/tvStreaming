@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+
+    <RelativeLayout
+        android:id="@+id/videoRelative"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:background="@android:color/black"
+        android:orientation="horizontal">
+
+        <VideoView
+            android:id="@+id/videoView"
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ProgressBar
+            android:id="@+id/progrss"
+            style="?android:attr/progressBarStyle"
+            android:visibility="gone"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/prev"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:drawableLeft="@drawable/ic_prev"
+            android:drawableTint="@color/colorPrimary"
+            android:layout_width="wrap_content"
+            android:background="@android:color/transparent"
+            android:textColor="@android:color/white"
+            android:alpha="0.7"
+            android:layout_height="wrap_content"
+            android:font="@font/alliance"
+            android:textAllCaps="true"
+            android:typeface="sans"
+            android:text=""/>
+        <Button
+            android:id="@+id/next"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:drawableRight="@drawable/ic_next"
+            android:drawableTint="@color/colorPrimary"
+            android:layout_width="wrap_content"
+            android:background="@android:color/transparent"
+            android:textColor="@android:color/white"
+            android:alpha="0.7"
+            android:layout_height="wrap_content"
+            android:font="@font/alliance"
+            android:textAllCaps="true"
+            android:typeface="sans"
+            android:text=""/>
+
+
+    </RelativeLayout>
+
+
+        <LinearLayout
+            android:id="@+id/menuBarra"
+            android:layout_centerInParent="true"
+            android:background="@android:color/transparent"
+            android:alpha="0.8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:gravity="top|center_horizontal"
+            android:orientation="horizontal">
+            <EditText
+                android:id="@+id/editText"
+                android:layout_marginLeft="35dp"
+                android:gravity="left|center"
+                android:background="@android:color/transparent"
+                android:textColor="@android:color/white"
+                android:alpha="1"
+                android:drawableLeft="@drawable/ic_search"
+                android:layout_marginRight="15dp"
+                android:layout_width="80dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:ems="18"
+                android:inputType="numberDecimal"
+                android:typeface="monospace"
+                android:cursorVisible="false"
+                android:text=" "/>
+            <Button
+                android:id="@+id/films2"
+                android:layout_marginTop="0dp"
+                android:layout_marginRight="15dp"
+                android:gravity="center|center_vertical"
+                android:drawableRight="@drawable/ic_tv2"
+                android:drawableLeft="@drawable/ic_costa_rica_2"
+                android:layout_width="wrap_content"
+                android:background="@android:color/transparent"
+                android:textColor="@android:color/white"
+                android:alpha="1"
+                android:textSize="26dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:font="@font/alliance"
+                android:textAllCaps="true"
+                android:typeface="sans"
+                android:text=" #PURAVIDA "/>
+            <Button
+                android:id="@+id/films"
+                android:layout_marginTop="0dp"
+                android:layout_marginRight="35dp"
+                android:gravity="right|center_vertical"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:drawableRight="@drawable/ic_logoplay2"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:textColor="@android:color/white"
+                android:alpha="1"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/gran_hotel"
+                android:textAllCaps="false"
+                android:typeface="monospace"
+                android:text="maetv "/>
+
+
+
+        </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/menuBarraAbajo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:alpha="0.8"
+            android:background="@android:color/black"
+            android:layout_alignParentBottom="true"
+            android:gravity="bottom|center_horizontal"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/films3"
+                android:layout_weight="1"
+                android:layout_marginTop="0dp"
+                android:layout_marginLeft="35dp"
+                android:drawableLeft="@drawable/ic_logoplay2"
+                android:layout_width="wrap_content"
+                android:background="@android:color/transparent"
+                android:textColor="@android:color/white"
+                android:alpha="1"
+                android:layout_height="wrap_content"/>
+            <Button
+                android:id="@+id/films7"
+                android:layout_weight="1"
+                android:layout_marginTop="0dp"
+                android:drawableLeft="@drawable/ic_menu"
+                android:layout_width="wrap_content"
+                android:background="@android:color/transparent"
+                android:textColor="@android:color/white"
+                android:alpha="1"
+                android:layout_height="wrap_content"/>
+            <ImageButton
+                android:id="@+id/films4"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/ic_fav1"
+                android:layout_width="wrap_content"
+                android:background="@android:color/transparent"
+                android:textColor="@android:color/white"
+                android:alpha="1"
+                android:layout_height="wrap_content"/>
+
+            <Button
+                android:id="@+id/films5"
+                android:layout_weight="1"
+                android:layout_marginTop="0dp"
+                android:drawableRight="@drawable/ic_reload"
+                android:layout_width="wrap_content"
+                android:background="@android:color/transparent"
+                android:textColor="@android:color/white"
+                android:alpha="1"
+                android:layout_height="wrap_content"/>
+            <Button
+                android:id="@+id/films6"
+                android:layout_weight="1"
+                android:layout_marginTop="0dp"
+                android:layout_marginRight="35dp"
+                android:drawableRight="@drawable/ic_off"
+                android:layout_width="wrap_content"
+                android:drawableTint="@color/colorPrimary"
+                android:background="@android:color/transparent"
+                android:textColor="@android:color/white"
+                android:alpha="1"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+
+
+
+
+    </RelativeLayout>
+
+
+
+
+</android.support.constraint.ConstraintLayout>
